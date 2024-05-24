@@ -32,3 +32,7 @@ img {
     font-size: 15px; 
     color: red;
 }
+
+.btn-outline-info:hover {
+    color: white;
+}
